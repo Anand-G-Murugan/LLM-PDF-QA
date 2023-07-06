@@ -11,13 +11,11 @@ There is an alternate notebook `Pdf_QA_alt.ipynb`version that runs without strea
 * Frontend: Streamlit
 * Langchain
 
-## Quickstart
+## Quickstart (Streamlit from Colab)
 * Copy the code into your own Colab Notebook.
-* Get your own OpenAI API Key.\
+* Get your own OpenAI API Key.
 (You can get your  own key from here: https://platform.openai.com/account/api-keys)
-
 * Run the entire code
-
 * Copy the endpoint ip. (line 1)
 * Go to the link. (line 3)
 * Enter the endpoint ip.
@@ -28,3 +26,10 @@ There is an alternate notebook `Pdf_QA_alt.ipynb`version that runs without strea
 * Upload your PDF.
 * Ask your question.
 
+## Quickstart (Alt)
+* Copy the code into your own Colab Notebook.
+* Get your own OpenAI API Key.
+(You can get your  own key from here: https://platform.openai.com/account/api-keys)
+* Input your secret key in the notebook.
+* Input your question in the notebook.
+* Run the entire code
