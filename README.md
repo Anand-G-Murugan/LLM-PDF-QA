@@ -1,10 +1,14 @@
 # LLM-PDF-QA
 This is a simple implementation of an LLM Based QA engine over custom PDF Input Data.
 
+This notebook  `Pdf_QA.ipynb` is written to allow streamlit application to run in a Colab notebook.
+There is an alternate notebook `Pdf_QA_alt.ipynb`version that runs without streamlit. 
+
 ## Technologies used
 * Embeddings: Huggingface Embeddings model all-MiniLM-L6-v2 (https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 * Vectorstore: FAISS (https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 * LLM: OpenAI's GPT-3 davinci (https://platform.openai.com/docs/models)
+* Frontend: Streamlit
 * Langchain
 
 ## Quickstart
